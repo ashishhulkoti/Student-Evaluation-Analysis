@@ -66,23 +66,9 @@ Clustering analysis effectively highlighted key factors impacting student satisf
 git clone [repository link]
 ```
 
-2. Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the notebook:
+2. Run the notebook:
 
 ```bash
 jupyter notebook "Turkiye Student Evaluation Analysis - Clustering.ipynb"
 ```
-
-## Contributions
-
-Contributions to improve analysis and visualizations are welcome.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
